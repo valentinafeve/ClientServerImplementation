@@ -1,1 +1,1 @@
-Proyecto de Sistemas Distribuidos
+Client-Server model implementation on Java.
